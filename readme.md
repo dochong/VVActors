@@ -1,0 +1,3 @@
+## Valletta Ventures Actors library
+
+This is a sample project to accompany the article ...
